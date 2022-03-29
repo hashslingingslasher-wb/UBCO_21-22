@@ -1,0 +1,6 @@
+COSC404 improvements/areas of struggle
+1) block size calculations
+2) cost calculations
+3) practice b trees
+4) optimization algorithms
+5) relational size calculations
